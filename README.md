@@ -1,3 +1,3 @@
 # Proyecto3
 
-![6fea0f3a-10e3-42bd-9b9f-be755d026960](https://github.com/user-attachments/assets/09179c6d-a8ec-40a1-8829-481a79c77d4b)
+![b833886c-7160-4dcd-98b5-a8f300fb5e40](https://github.com/user-attachments/assets/da8d6a72-1cf5-4069-b972-04fcf7e696fd)
