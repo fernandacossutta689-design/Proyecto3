@@ -7,4 +7,5 @@
 # Mapeo de la base de datos 
 Falta una tabla de horarios 
 
-![5a43d633-29c9-412f-a665-d3304de5bf4e](https://github.com/user-attachments/assets/3f5960ba-4d3d-4d99-86cd-f2a8fca8a8dc)
+<img width="512" height="341" alt="unnamed" src="https://github.com/user-attachments/assets/0efd7023-7bc5-47b4-8553-3fafc004da2c" />
+
